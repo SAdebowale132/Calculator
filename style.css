@@ -21,7 +21,8 @@ h1 {
 
 
 .calculator {
-    max-width: 400px;
+    max-width: 300px;
+    height: auto;
     margin: 10% auto;
     background-color: #dcd2d2;
     padding: 20px;
